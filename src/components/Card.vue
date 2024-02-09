@@ -19,6 +19,7 @@
 </template>
 
 <style scoped>
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
   .card{
     width: 310px;
     overflow: hidden;
@@ -38,6 +39,8 @@
   }
   .card .card-text h2{
     font-weight: bold;
+    color: #0D9276;
+    font-family: 'Protest Riot', sans-serif;
   }
   
 </style>

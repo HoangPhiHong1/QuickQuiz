@@ -15,23 +15,17 @@
 <template>
   <div>
     <header>
-      <h1>Quizes</h1>
+      <h1>Quick Quiz</h1>
       <input v-model.trim="search" type="text" placeholder="Search...">
     </header>
     <div class="options-container">
       <Card v-for="quiz in quizes" :key="quiz.id" :quiz="quiz"/>
-      <!-- <div v-for="quiz in quizes" :key="quiz.id" class="card">
-        <img :src="quiz.img" alt="Math picture">
-        <div class="card-text">
-          <h2>{{ quiz.name }}</h2>
-          <p>{{ quiz.questions.length }} Questions</p>
-        </div>
-      </div> -->
     </div>
   </div>
 </template>
 
 <style scoped>
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
   .container{
     max-width: 1000px;
     margin: 0 auto;
@@ -47,7 +41,9 @@
     font-weight: bold;
     margin-right: 30px;
     font-family: sans-serif;
-    font-size: 50px;
+    font-size: 100px;
+    font-family: 'Protest Riot', sans-serif;
+    color: #40A2E3;
   }
   header input{
     border: none;
