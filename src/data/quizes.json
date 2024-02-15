@@ -289,5 +289,102 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 4,
+        "img": "https://shorturl.at/hxBX6",
+        "name":"Physics",
+        "questions":[
+            {
+                "id": 1,
+                "text": "A thermometer is a device used to measure what?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Temperature",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Weight",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Gravity",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Speed",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Tidal _____ are dams that produce power from the tides",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "walls",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "forces",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "barriers",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "barrages",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Sounds travel in a particular way. Sounds travel in _____.",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Unpredictable patterns",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Groups",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "A wave pattern",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "A side to side pattern",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
