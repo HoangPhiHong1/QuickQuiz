@@ -386,5 +386,102 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 5,
+        "img": "https://shorturl.at/qwI47",
+        "name":"Geography",
+        "questions":[
+            {
+                "id": 1,
+                "text": "Which country is home to the Eiffel Tower?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "China",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "USA",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Italy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "France",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which country has the most volcanoes?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Japan",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Indonesia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "India",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cambodia",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the capital city of Canada?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Seoul",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "London",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ottawa",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Berlin",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
