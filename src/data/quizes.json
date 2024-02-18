@@ -483,5 +483,102 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 5,
+        "img": "https://shorturl.at/zAO12",
+        "name":"History",
+        "questions":[
+            {
+                "id": 1,
+                "text": "The United States bought Alaska from which country?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Russia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "China",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Italy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "France",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "The 19th Amendment guarantees ____ the right to vote",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Man",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Kids",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "White people",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Women",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which year was George H.W. Bush elected president?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1987",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1988",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1989",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1990",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
