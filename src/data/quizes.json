@@ -580,5 +580,102 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 6,
+        "img": "https://shorturl.at/czX39",
+        "name":"Literature",
+        "questions":[
+            {
+                "id": 1,
+                "text": "In 'The Lion, the Witch, and the Wardrobe,' what magical country does the White Witch put a spell on so that it is always winter but never Christmas?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Narnia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hogwarts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Avalon",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Lumar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "The Nike Literary Award (technically Nagroda Literacka Nike) is one of the most prestigious awards for literature in what European country? Past winners include Wieslaw Mysliwski, Jaroslaw Marek Rymkiewicz, and Karol Modzelewski.",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Poland",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Switzerland",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Norway",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Canada",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Where does the Wizard live in The Wizard of Oz?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The Mosville City",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The Aetherwind City",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The Emerald City",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "The Zion City",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
