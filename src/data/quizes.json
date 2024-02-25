@@ -677,5 +677,102 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 6,
+        "img": "https://shorturl.at/wyA03",
+        "name":"Music",
+        "questions":[
+            {
+                "id": 1,
+                "text": "Eminem's 8 Mile is named after a road in which city?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chicago",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Los Angeles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Detroit",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Atlanta",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is a 'chromatic' movement?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "A type of slow movement in a concerto",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "A scale or sequence where notes move in semi-tones",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "A change of tempo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "None of the above",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What does the term 'sforzando' relate to?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Music with lots of sudden dynamic sections",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Music which represents different types of dance",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Music in a play, tv program, radio, video games etc.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "None of the above",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
