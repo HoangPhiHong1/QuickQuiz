@@ -774,5 +774,102 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 7,
+        "img": "https://shorturl.at/betuD",
+        "name":"Information Technology",
+        "questions":[
+            {
+                "id": 1,
+                "text": "Did the Apple iPhone first become available in ____ ?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "2011",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2010",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "2009",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2007",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Firefox, Opera, Chrome, Safari and Explorer are types of what?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Web Browsers",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Programming Languages",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Operating Systems",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "None of the above",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What does the abbreviation WWW stand for?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "World Width Web",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Web World Wide",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Web World Width",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "World Wide Web",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
     }
 ]
