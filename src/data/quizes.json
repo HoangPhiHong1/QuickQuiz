@@ -250,6 +250,66 @@
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "id": 4 ,
+                "text": "What is the history of the evolution of a species or group?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Phylogeny",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Relativity",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Genetics",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Biology",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4 ,
+                "text": "What do we call the most basic structural unit of living things?",
+                "options":[
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "DNA",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Skin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Cell",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Life",
+                        "isCorrect": false
+                    }
+                ]
             }
         ]
     },
